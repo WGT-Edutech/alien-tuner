@@ -1,0 +1,12 @@
+{
+  "name": "Alien Guitar Tuner",
+  "short_name": "AlienTuner",
+  "description": "Cosmic guitar tuner with precise pitch detection and alternate tunings.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme_color": "#22d3ee",
+  "icons": [
+    { "src": "Alien Recorder Logo.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
